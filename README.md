@@ -58,21 +58,6 @@
 
 ---
 
-### 🎵 Vibing While Coding
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=hy7ldhhulz3v6s8s024fw1bua&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing"/>
-</p>
-
----
-
-### 🎉 Fun Widgets
-
-<p align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=sahil3028&theme=radical" alt="GitHub Metrics"/>
-</p>
-
----
 
 ### 🔥 Fun Animated Footer
 
